@@ -27,7 +27,7 @@ Specifically, we are interested in exploring data-driven evidences to understand
 We are currently focusing on the automatic identification of leadership, and we plan to explore this further in our future work.
 
 ## Running
-> cd code
+> cd code  
 > python pattern_matcher.py
 
 ## Files

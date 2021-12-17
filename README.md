@@ -56,3 +56,7 @@ The details of folders:
 * survey
 
 > The questionnaires and responses.
+
+* hypothesis testing results
+
+> The hypothesis testing results of leadership

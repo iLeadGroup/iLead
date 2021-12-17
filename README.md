@@ -59,4 +59,4 @@ The details of folders:
 
 * hypothesis testing results
 
-> The hypothesis testing results of leadership
+> The hypothesis testing results of leadership.
